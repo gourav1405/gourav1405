@@ -97,7 +97,8 @@ and experiences that stay.
 # 🐍 CONTRIBUTION_MATRIX()
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gourav0514/gourav0514/output/github-contribution-grid-snake.svg" />
+  
+  <img src="https://raw.githubusercontent.com/gourav1405/gourav1405/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
