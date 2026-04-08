@@ -149,7 +149,7 @@ You're looking at one.
 ```
 
 ```txt
-LinkedIn : https://www.linkedin.com/in/munikotigourav1405/
+LinkedIn : https://www.linkedin.com/in/munikotigourav0514/
 GitHub   : https://github.com/gourav1405
 ```
 
