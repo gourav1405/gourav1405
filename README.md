@@ -88,8 +88,8 @@ and experiences that stay.
 # 🧠 LIVE_METRICS()
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourav0514&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav0514&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gourav1405&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav1405&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -149,8 +149,8 @@ You're looking at one.
 ```
 
 ```txt
-LinkedIn : https://www.linkedin.com/in/munikotigourav0514/
-GitHub   : https://github.com/gourav0514
+LinkedIn : https://www.linkedin.com/in/munikotigourav1405/
+GitHub   : https://github.com/gourav1405
 ```
 
 ---
