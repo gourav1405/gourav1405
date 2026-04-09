@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+%7C+Mobile+Developer;Building+Scalable+Applications;React+Native+%7C+Node.js+%7C+TypeScript" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Frontend+%7C+Mobile+Specialist;Building+Scalable+Applications;React+Native+%7C+Node.js+%7C+TypeScript" />
 </p>
 
 <p align="center">
@@ -12,31 +12,32 @@
 
 ---
 
-## About Me
+## About
 
-Software Engineer with 3+ years of experience building scalable mobile and web applications across banking, financial services, automotive, and real-time systems.
+Software Engineer with 3+ years of experience building scalable mobile and web applications across **banking, financial services, automotive, and real-time systems**.
 
-- Frontend-focused developer specializing in mobile and web applications  
-- Strong experience in scalable UI architecture and state management  
-- Skilled in secure authentication (JWT, OAuth) and API integrations  
-- Focused on performance, maintainability, and real-world usability  
+- Specialized in **React Native, React, and modern frontend architectures**
+- Strong experience in **secure authentication (JWT, OAuth)** and API-driven systems  
+- Focused on **performance, scalability, and maintainable UI systems**
+- Hands-on experience delivering **production-grade applications used by real clients**
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,postgres,prisma,git,github,angular,expo" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,ts,js,postgres,prisma,html,css,git,github,expo,ionic" />
 </p>
 
 ---
 
-## Key Highlights
+## Key Impact
 
-- 3+ years of experience in production-grade applications  
-- Built mobile banking and automotive apps used by real clients  
-- Designed real-time systems using WebSockets  
-- Strong focus on scalable and maintainable architectures  
+- Built and delivered **mobile banking and enterprise applications** used in production  
+- Improved UI performance and reduced load time by **~25%** in Angular-based systems  
+- Designed **real-time architectures using WebSockets** for low-latency communication  
+- Developed scalable frontend systems supporting **complex, multi-role workflows**  
+- Structured applications using **modular architecture (Turborepo)** for maintainability  
 
 ---
 
@@ -44,36 +45,37 @@ Software Engineer with 3+ years of experience building scalable mobile and web a
 
 ### Software Developer  
 **Rumango Software and Consulting Services Pvt. Ltd.**  
-Feb 2023 – Present  
+*Feb 2023 – Present*
 
 #### Car Dealer Mobile Application
-- Developed a multi-role application (Manager, Sales, Admin, Management)
-- Built responsive UI using Ionic Angular and NgRx
-- Improved user workflows and application performance
-- Collaborated directly with clients for feature delivery
-- Successfully deployed on Play Store and App Store  
+- Developed a **multi-role enterprise application** (Manager, Sales, Admin, Management)
+- Built scalable UI using **Ionic Angular + NgRx** for predictable state management  
+- Improved application responsiveness and usability across workflows  
+- Collaborated directly with stakeholders to deliver production-ready features  
+- Successfully deployed on **Google Play Store and App Store**
 
 #### ICUST Mobile Banking Application
-- Built mobile banking interfaces using React Native and TypeScript  
-- Implemented complex forms with validation using React Hook Form  
-- Integrated REST APIs for secure transaction flows  
-- Managed global state using Context API and custom hooks  
-- Designed scalable navigation using Expo Router  
+- Built **secure mobile banking interfaces** using React Native and TypeScript  
+- Implemented advanced form systems with **dynamic validation and conditional flows**  
+- Integrated **REST APIs** for transaction-heavy workflows  
+- Designed scalable navigation using **Expo Router + Context-based state management**  
+- Ensured maintainability through reusable component architecture  
 
 ---
 
-## Projects
+## Featured Project
 
 ### Real-Time Multiplayer Chess Platform
-- Built real-time gameplay using WebSockets  
-- Implemented OAuth authentication and JWT session handling  
-- Designed matchmaking and persistent game state  
-- Used Prisma + PostgreSQL for scalable backend  
-- Structured using Turborepo for modular architecture  
+
+- Engineered a **real-time multiplayer system** using WebSockets  
+- Implemented **OAuth + JWT authentication** across distributed services  
+- Designed **matchmaking and persistent game state** for seamless user experience  
+- Built scalable backend using **Prisma + PostgreSQL**  
+- Structured as a **monorepo using Turborepo** for modular scalability  
 
 ---
 
-## GitHub Stats
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gourav1405&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -89,15 +91,14 @@ Feb 2023 – Present
 </p>
 
 ---
-
 ## Contact
 
-- Portfolio: https://mgourav.netlify.app/  
-- LinkedIn: https://www.linkedin.com/in/munikotigourav0514/  
-- GitHub: https://github.com/gourav1405  
+- 📩 Email: gouravsai63@gmail.com  
+- 🌐 Portfolio: https://mgourav.netlify.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/munikotigourav0514/  
 
 ---
 
 <p align="center">
-  <b>Focused on building scalable systems and high-quality user experiences.</b>
+  <b>Focused on building scalable systems, real-time architectures, and high-quality user experiences.</b>
 </p>
