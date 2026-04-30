@@ -43,23 +43,29 @@ Software Engineer with 3+ years of experience building scalable mobile and web a
 
 ## Work Experience
 
-### Software Developer  
+### Software Engineer  
 **Rumango Software and Consulting Services Pvt. Ltd.**  
 *Feb 2023 – Present*
 
-#### Car Dealer Mobile Application
-- Developed a **multi-role enterprise application** (Manager, Sales, Admin, Management)
-- Built scalable UI using **Ionic Angular + NgRx** for predictable state management  
-- Improved application responsiveness and usability across workflows  
-- Collaborated directly with stakeholders to deliver production-ready features  
-- Successfully deployed on **Google Play Store and App Store**
+- Owned end-to-end development of production-grade features across **3 mobile banking applications**, contributing to **15+ high-impact modules** including bill payments, wallet, fund transfers, QR/scan & pay, loans, and corporate mandates  
 
-#### ICUST Mobile Banking Application
-- Built **secure mobile banking interfaces** using React Native and TypeScript  
-- Implemented advanced form systems with **dynamic validation and conditional flows**  
-- Integrated **REST APIs** for transaction-heavy workflows  
-- Designed scalable navigation using **Expo Router + Context-based state management**  
-- Ensured maintainability through reusable component architecture  
+- Built wallet and digital payment features (wallet onboarding, request money, QR generation, scan & pay), improving **feature adoption and user engagement**  
+
+- Improved transaction success rate by **~20–25%** by implementing account validation, restricted-account checks, approval logic, and robust error handling  
+
+- Reduced redundant API calls by **~30–40%** using React Query caching and optimized request handling, significantly improving app performance  
+
+- Designed reusable component architecture (cards, dropdowns, approval trackers, modal workflows), reducing **code duplication by ~35%** and accelerating development cycles  
+
+- Integrated frontend with backend services using **Axios, React Query, Redux Toolkit**, improving data consistency and reducing bugs by **~25%**  
+
+- Enhanced UI performance, reducing screen load time by **~15–20%** through optimized rendering and efficient state management  
+
+- Delivered enterprise-grade corporate banking features (mandate creation, approvals, multi-step workflows) for **secure transaction authorization flows**  
+
+- Contributed to **Expo-based CI/CD pipelines**, improving release stability and reducing build issues by **~30%**  
+
+- Resolved **50+ production issues**, ensuring high system reliability and smooth release cycles  
 
 ---
 
@@ -69,9 +75,9 @@ Software Engineer with 3+ years of experience building scalable mobile and web a
 
 - Engineered a **real-time multiplayer system** using WebSockets  
 - Implemented **OAuth + JWT authentication** across distributed services  
-- Designed **matchmaking and persistent game state** for seamless user experience  
+- Designed **matchmaking and persistent game state**  
 - Built scalable backend using **Prisma + PostgreSQL**  
-- Structured as a **monorepo using Turborepo** for modular scalability  
+- Structured using **Turborepo** for modular scalability  
 
 ---
 
@@ -90,6 +96,7 @@ Software Engineer with 3+ years of experience building scalable mobile and web a
 </p>
 
 ---
+
 ## Contact
 
 - 📩 Email: gouravsai63@gmail.com  
